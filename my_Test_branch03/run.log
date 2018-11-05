@@ -1,0 +1,1877 @@
+Start All thing at Thu May  3 13:51:26 2018
+mkdir /home/cll/work/20180503
+mkdir /home/cll/work/20180503/00.temp
+mkdir /home/cll/work/20180503/sh
+mkdir /home/cll/work/20180503/sh/01.bcl2fastq
+	Start bcl2fastq at Thu May  3 13:51:30 2018
+	bcl2fastq use time : 5575..........
+	Start mergefastq at Thu May  3 15:24:25 2018
+mkdir /home/cll/work/20180503/fastq
+mkdir /home/cll/work/20180503/sh/02.mergefastq
+mkdir /home/cll/work/20180503/fastq/KY
+mkdir /home/cll/work/20180503/fastq/KY/1FFB
+mkdir /home/cll/work/20180503/fastq/KY/1FFB/rawData
+mkdir /home/cll/work/20180503/fastq/KY/HGB
+mkdir /home/cll/work/20180503/fastq/KY/HGB/rawData
+mkdir /home/cll/work/20180503/fastq/LC
+mkdir /home/cll/work/20180503/fastq/LC/LB1800010C1-A02
+mkdir /home/cll/work/20180503/fastq/LC/LB1800010C1-A02/rawData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800010P1-A02
+mkdir /home/cll/work/20180503/fastq/LC/LB1800010P1-A02/rawData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800012C1-A02
+mkdir /home/cll/work/20180503/fastq/LC/LB1800012C1-A02/rawData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800012P1-A02
+mkdir /home/cll/work/20180503/fastq/LC/LB1800012P1-A02/rawData
+mkdir /home/cll/work/20180503/fastq/LC/LF1800013-A02
+mkdir /home/cll/work/20180503/fastq/LC/LF1800013-A02/rawData
+mkdir /home/cll/work/20180503/fastq/LC/LM1800011-A02
+mkdir /home/cll/work/20180503/fastq/LC/LM1800011-A02/rawData
+mkdir /home/cll/work/20180503/fastq/LC/LM1800014-A01
+mkdir /home/cll/work/20180503/fastq/LC/LM1800014-A01/rawData
+mkdir /home/cll/work/20180503/fastq/KY/LQMB
+mkdir /home/cll/work/20180503/fastq/KY/LQMB/rawData
+
+
+
+
+
+
+
+
+
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6837     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       6839  6837  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       6840     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       6843  6840  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       6845     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       6847  6845  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       6849     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       6851  6849  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6855  6853  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6859  6856  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6863  6860  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6867  6864  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6871  6868  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+cll       6875  6873  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6845     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       6849     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6863  6860  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6867  6864  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6856     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6868     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6853     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       6873     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       6860     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       6864     1  0 15:24 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+
+
+
+
+
+
+
+
+
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7072  7070  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7076  7073  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7080  7078  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7084  7082  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7088  7086  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7092  7090  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7093     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7096  7093  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7097     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       7100  7097  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       7102     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       7104  7102  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       7106     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+cll       7108  7106  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7072  7070  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7076  7073  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7093     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7097     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+cll       7102     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work8.sh
+
+cll       7106     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7072  7070  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7093     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7097     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7093     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7097     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7093     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7097     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+cll       7093     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work6.sh
+
+cll       7097     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+cll       7086     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work4.sh
+
+cll       7090     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+cll       7078     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work2.sh
+
+cll       7082     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7070     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work0.sh
+
+cll       7073     1  0 15:43 pts/4    00:00:00 sh /home/cll/work/20180503/sh/02.mergefastq/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+	mergefastq use time : 2053..........
+	Start cutadapt at Thu May  3 15:58:38 2018
+mkdir /home/cll/work/20180503/sh/03.cutadapt
+
+
+
+
+
+
+
+
+
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7309     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7311     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+cll       7315     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work2.sh
+
+cll       7318     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work3.sh
+
+cll       7321     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7324     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+cll       7333     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work8.sh
+
+cll       7336     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7321     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7324     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+cll       7333     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work8.sh
+
+cll       7336     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7321     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7324     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+cll       7333     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work8.sh
+
+cll       7336     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7321     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7324     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+cll       7333     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work8.sh
+
+cll       7336     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7321     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7324     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+cll       7333     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work8.sh
+
+cll       7336     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7327     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7330     1  0 15:58 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+
+
+
+
+
+
+
+
+
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+cll       7441     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work2.sh
+
+cll       7444     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work3.sh
+
+cll       7447     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7450     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7453     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7456     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+cll       7459     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work8.sh
+
+cll       7462     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+cll       7441     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work2.sh
+
+cll       7444     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work3.sh
+
+cll       7447     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7450     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7453     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7456     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+cll       7441     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work2.sh
+
+cll       7444     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work3.sh
+
+cll       7447     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7450     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+cll       7453     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work6.sh
+
+cll       7456     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+cll       7441     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work2.sh
+
+cll       7444     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work3.sh
+
+cll       7447     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work4.sh
+
+cll       7450     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+cll       7441     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work2.sh
+
+cll       7444     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7435     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work0.sh
+
+cll       7438     1  0 16:07 pts/4    00:00:00 sh /home/cll/work/20180503/sh/03.cutadapt/work1.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+	cutadapt use time : 966..........
+	Start qc at Thu May  3 16:14:44 2018
+mkdir /home/cll/work/20180503/sh/04.qc
+mkdir /home/cll/work/20180503/fastq/KY/1FFB/cleanData
+mkdir /home/cll/work/20180503/fastq/KY/HGB/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800010C1-A02/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800010P1-A02/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800012C1-A02/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LB1800012P1-A02/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LF1800013-A02/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LM1800011-A02/cleanData
+mkdir /home/cll/work/20180503/fastq/LC/LM1800014-A01/cleanData
+mkdir /home/cll/work/20180503/fastq/KY/LQMB/cleanData
+
+
+
+
+
+
+
+
+
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7540     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work0.sh
+
+cll       7543     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work1.sh
+
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+cll       7596     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7540     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work0.sh
+
+cll       7543     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work1.sh
+
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+cll       7596     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work9.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7540     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work0.sh
+
+cll       7543     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work1.sh
+
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+cll       7589     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work8.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+cll       7568     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work6.sh
+
+cll       7578     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work7.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7546     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work2.sh
+
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7558     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work4.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+cll       7563     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work5.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+cll       7549     1  0 16:14 pts/4    00:00:00 sh /home/cll/work/20180503/sh/04.qc/work3.sh
+
+work0.sh
+work1.sh
+work2.sh
+work3.sh
+work4.sh
+work5.sh
+work6.sh
+work7.sh
+work8.sh
+work9.sh
+	qc use time : 2286..........
+	Start stat at Thu May  3 16:52:50 2018
+mkdir /home/cll/work/20180503/sh/05.stat
+###############
+/usr/bin/perl /home/cll/bin/rawData_stat.pl /home/cll/work/20180503
+/usr/bin/perl /home/cll/bin/cleanData_stat.pl /home/cll/work/20180503
+/usr/bin/perl /home/cll/bin/Undetermined_stat.pl /home/cll/work/20180503
+/usr/bin/perl /home/cll/bin/result_stat.pl /home/cll/work/20180503 /home/oss4/180411_TPNB500237AR_0004_AHWN2TAFXX/sampleSheet.csv
+
+	stat use time : 41..........
+All end  time : Thu May  3 16:53:31 2018
